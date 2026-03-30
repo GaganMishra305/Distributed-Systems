@@ -28,3 +28,6 @@ Challnges when writing code with mutithreading.
 - at most once (checkin for duplicates)
 - exactly once (ideally, not real)
 
+## IMP:
+- _GOAL of concurrency:_ is to improve performance by adding concurrent procdure to existing design.
+- https://www.youtube.com/watch?v=oV9rvDllKEg
